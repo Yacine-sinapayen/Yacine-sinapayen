@@ -1,16 +1,17 @@
-### Hi there 👋
+Bonjour à tous ! 
 
-<!--
-**Yacine-sinapayen/Yacine-sinapayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Yacine Sinapayen, je suis développeur Front-end React et passionné par la programmation informatique depuis plusieurs années. 
 
-Here are some ideas to get you started:
+👨‍💻 Sérieux et appliqué, j’accorde une grande importance à fournir un travail de qualité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Compétences :
+▪ Front-end : React.js, JavaScript, HTML, CSS, Jquery, 
+▪ Versionning : Git
+▪ Style & composants : MaterialUI, SementicUI
+▪ CMS : WordPress, Woocommerce, Elementor, Stripe
+▪ CI/CD: Github, Netlify
+▪ Outils : Prettier, ESLint
+
+Le petit plus : anciennement dans l'industrie du marketing j'apporte une intention particulière aux fonctionnalités du produit/service. C'est un plus en tant que développeur d'avoir cet angle de vue lors de la conception.
+
+Bonne journée !
