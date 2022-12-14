@@ -12,6 +12,6 @@ Je m'appelle Yacine, je suis développeur Web et passionné par la programmation
 ▪ CI/CD: Github, Netlify
 ▪ Outils : Prettier, ESLint
 
-Le petit plus : anciennement dans l'industrie du marketing j'apporte une attention toute particulière aux fonctionnalités des produits et service que je développe. C'est un plus en tant que développeur d'avoir cet angle de vue lors de la conception.
+Le petit plus : anciennement dans l'industrie du marketing j'apporte une attention toute particulière aux fonctionnalités des produits et services que je développe. C'est un plus en tant que développeur d'avoir cet angle de vue lors de la conception.
 
 Bonne journée !
